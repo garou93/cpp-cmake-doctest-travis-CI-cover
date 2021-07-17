@@ -82,7 +82,7 @@ upload this to Coveralls.io and/or Codecov.io
 
 ####  bash/clone:
 
-* app under development
+* git-upadte script under development
 * tests under development
 * app under development
 * template under development
